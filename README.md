@@ -27,4 +27,67 @@
 ![8](https://github.com/user-attachments/assets/b261b16c-d512-4815-bd83-06f5275d688b)
 
 
+# Comparison Plots ECC with GOA
+
+![1](https://github.com/user-attachments/assets/8ee6e839-e3cd-4397-a19b-eca6c9dc037c)
+![2](https://github.com/user-attachments/assets/cf0b2516-39b2-4f60-ab00-758a225d75ca)
+
+# Result Analysis with ML then ENSAMBLE-ANN
+
+![2](https://github.com/user-attachments/assets/a643d2da-3900-43af-8188-48559c653782)
+![1](https://github.com/user-attachments/assets/b63c90ce-5f5f-4ca1-901b-361773446b27)
+![4](https://github.com/user-attachments/assets/1c4b7338-0a04-497a-802d-b025d795fbec)
+![3](https://github.com/user-attachments/assets/84d4eb01-8cdd-4452-86b2-c47f73e0eca3)
+![6](https://github.com/user-attachments/assets/37bb107d-b322-4b68-be43-fa45ae305500)
+![5](https://github.com/user-attachments/assets/a0344688-1a9d-44fa-8778-7a5438e96280)
+![7](https://github.com/user-attachments/assets/c27e8cab-d3d7-434e-902e-74c20a69ef2d)
+
+# Final output 
+
+![2](https://github.com/user-attachments/assets/86fc40c3-83c3-4e84-a964-663c2fc0760a)
+![1](https://github.com/user-attachments/assets/b251a21c-d6b6-4ee7-bffe-56e9c45213e8)
+![4](https://github.com/user-attachments/assets/2f17f0bb-5d26-4a5c-9a6e-38177e526a28)
+![3](https://github.com/user-attachments/assets/3da704f9-ed3b-492e-8ee1-08935710fafd)
+
+# Nodes Performance
+
+![3](https://github.com/user-attachments/assets/02c9521a-58ce-4f2a-9cf0-9dd5dd45d9a2)
+![2](https://github.com/user-attachments/assets/a6a88643-a274-42e7-8571-7ec8836038b3)
+![1](https://github.com/user-attachments/assets/ef8b5702-e5b5-48ff-b465-9c6ac672b058)
+![7](https://github.com/user-attachments/assets/4e2f2767-1199-4afd-aa81-385feeeec552)
+![6](https://github.com/user-attachments/assets/1f2e2afa-2f46-40bd-bc39-6558c557ae2a)
+![5](https://github.com/user-attachments/assets/23663229-4c83-4d0f-a581-87341584502a)
+![4](https://github.com/user-attachments/assets/750bb7fe-ef75-4bd8-9cc8-3ccc15631272)
+
+# ECC performing With Datasets
+
+![1](https://github.com/user-attachments/assets/0b585299-a73c-425c-948c-0aa32b1c08bc)
+![3](https://github.com/user-attachments/assets/c7d953aa-a8a4-4457-9505-50a6f6ddd1f2)
+![2](https://github.com/user-attachments/assets/a28e1910-469e-4305-9803-f2d27875a91b)
+![4](https://github.com/user-attachments/assets/84e3a867-e9e5-4bab-88e9-b907f20c3a83)
+
+# Artifcial Neural Network Performances
+
+![8](https://github.com/user-attachments/assets/2b0a9f16-eaeb-4f09-b98b-e45be0900564)
+![7](https://github.com/user-attachments/assets/cd722099-f09c-4e90-b343-480ef91b0a81)
+![6](https://github.com/user-attachments/assets/d37c71cd-afd5-4ace-a428-c012c0fd88e7)
+![5](https://github.com/user-attachments/assets/ac682c22-8394-4e15-a1d9-3cee7bd37156)
+![4](https://github.com/user-attachments/assets/05a8f4db-3a38-4b8c-ab43-9af162d20988)
+![3](https://github.com/user-attachments/assets/5705d34e-2392-4e57-bf70-6c0bbeb87750)
+![2](https://github.com/user-attachments/assets/66edb0bd-6a19-4baa-a953-fe4024e51d1e)
+![1](https://github.com/user-attachments/assets/4faad55b-7695-4437-ae04-9b82b74d7958)
+![10](https://github.com/user-attachments/assets/7a4f5547-67f3-4be6-9e31-f549fab91359)
+![9](https://github.com/user-attachments/assets/a7557904-93a6-447d-90bf-0b0e0e145469)
+
+# Ensamble Method Of Artificial Neural Network
+
+![1](https://github.com/user-attachments/assets/15eec9cb-91ec-49c7-aaa0-d3218374885f)
+![4](https://github.com/user-attachments/assets/cbd81f9d-d0a7-43ff-b574-3734d76dabf4)
+![3](https://github.com/user-attachments/assets/0c39c89f-51ef-4e50-aff8-493e2248aee4)
+![2](https://github.com/user-attachments/assets/0fbf14bf-367d-42f3-9977-8e1bbec4c823)
+
+# Insall dependencies
+# Python >3.0
+# Ubuntu 
+# Virtual Box
 
