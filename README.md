@@ -91,3 +91,11 @@
 # Ubuntu 
 # Virtual Box
 
+
+# Requirements 
+ Mininet
+ sklearn
+ ecc
+ GOA
+
+
