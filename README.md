@@ -1,5 +1,9 @@
 # AIONet-X Touch – Emotion-Aware, GenAI-Powered Self-Healing IoT Security Platform
 
+# Live Link
+
+https://aionet-x-touch-security-platform.vercel.app/
+
 # overview
 
 AIONet-X Touch is a cutting-edge, futuristic web application that simulates an AI-based IoT security platform. The system features real-time threat detection, emotion sensing, GenAI explanations, and automatic self-healing capabilities—all wrapped in a stunning neon blue/dark themed interface with advanced animations.
