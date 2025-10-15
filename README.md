@@ -1,5 +1,36 @@
-# IOT-WITH-ARTIFICIAL INTELLIGENCE (DEVICES)
-# Grasshopper Optimization Techhnique with (Routing Protocol -DODAG),(Packet Delivery Ratio),(Convergence Time)
+# AIONet-X Touch – Emotion-Aware, GenAI-Powered Self-Healing IoT Security Platform
+
+# overview
+
+AIONet-X Touch is a cutting-edge, futuristic web application that simulates an AI-based IoT security platform. The system features real-time threat detection, emotion sensing, GenAI explanations, and automatic self-healing capabilities—all wrapped in a stunning neon blue/dark themed interface with advanced animations.
+
+# Core Capabilities
+
+🛡️ Real-Time Threat Detection: AI-powered anomaly detection monitoring IoT devices
+😊 Emotion Recognition: Live emotion detection with confidence scoring
+🤖 GenAI Assistant: Interactive chatbot explaining system actions and security events
+⚡ Self-Healing System: Automatic recovery and threat neutralization
+📊 Live Dashboard: Real-time device monitoring with health metrics
+📝 System Logs: Complete activity timeline with recovery status tracking
+
+# Architecture
+
+Frontend Stack
+
+Framework: Next.js 15 (React 19)
+Styling: TailwindCSS v4
+UI Components: Shadcn/UI
+Animations: Framer Motion
+Language: TypeScript
+
+
+Key Components
+
+LandingPage: Animated intro with feature cards and CTA
+Dashboard: IoT device monitoring with threat alerts
+EmotionDetection: Webcam simulation with emotion analysis and AI chat
+SystemLogs: Activity timeline with recovery metrics
+Navigation: Responsive navigation with mobile support
 
 ![10](https://github.com/user-attachments/assets/f86d6958-be1a-4258-a1f9-c7a2cc5dc2e8)
 ![9](https://github.com/user-attachments/assets/6aff8ccc-f9bf-4039-bebf-1f2dab8057d7)
@@ -85,6 +116,7 @@
 ![4](https://github.com/user-attachments/assets/cbd81f9d-d0a7-43ff-b574-3734d76dabf4)
 ![3](https://github.com/user-attachments/assets/0c39c89f-51ef-4e50-aff8-493e2248aee4)
 ![2](https://github.com/user-attachments/assets/0fbf14bf-367d-42f3-9977-8e1bbec4c823)
+
 
 # Insall dependencies
 # Python >3.0
